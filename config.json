@@ -1,0 +1,9 @@
+{
+  "GEMINI_API_KEY": "",
+  "MODEL_NAME": "gemini-2.5-flash",
+  "HOST": "0.0.0.0",
+  "PORT": 5000,
+  "DEBUG": false,
+  "COMPANY_NAME": "Công ty Cổ phần Thiết bị Gia dụng Đại Thành",
+  "SYSTEM_NAME": "Hệ thống AI Agent Lựa Chọn & Phát Triển Đối Tác Phân Phối"
+}
